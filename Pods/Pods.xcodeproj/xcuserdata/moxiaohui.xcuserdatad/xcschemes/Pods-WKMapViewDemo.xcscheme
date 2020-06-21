@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0930"
+   LastUpgradeVersion = "1100"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8B6739F47BD80CE34718119B5961432E"
+               BlueprintIdentifier = "25EF52FD17AA555F49FF7F76B202F08B"
+               BuildableName = "libPods-WKMapViewDemo.a"
                BlueprintName = "Pods-WKMapViewDemo"
-               ReferencedContainer = "container:Pods.xcodeproj"
-               BuildableName = "libPods-WKMapViewDemo.a">
+               ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
